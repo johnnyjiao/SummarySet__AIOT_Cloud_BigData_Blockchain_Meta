@@ -1,6 +1,6 @@
 # OpenCV 计算机视觉库
 
-OpenCV 是一个基于 BSD 许可（开源）发行、跨平台（支持 Linux、Windows、Android、MacOS）、轻量且高效的计算机视觉库。
+OpenCV 是一个基于 BSD 许可（开源）发行、跨平台（支持 Linux、Windows、Android、MacOS）、轻量且高效的计算机视觉库，提供了处理图像和视频的能力。
 
 OpenCV 于 1999 年由 Gary Bradsky 在英特尔创立，第一个版本于 2000 年问世。
 
@@ -55,4 +55,12 @@ OpenCV 具有模块化结构，其开发包里面包含多个共享库和静态�
 例如，FLANN 和 Google 测试封装层、Python 绑定等。
 
 
+
+# OpenCV 源代码
+
+OpenCV 源代码主要模块：
+
+- OpenCV core 核心库：为 OpenCV 的主要算法来源。核心库提供了很多组件，包括：
+  - opencv_contrib 代码仓库：主要用于管理新功能模块的开发。
+  - opencv_extra 代码仓库：存放了运行测试和示例程序时需要使用的一些测试数据和脚本。
 
