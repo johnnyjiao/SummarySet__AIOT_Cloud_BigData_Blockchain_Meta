@@ -1,8 +1,4 @@
-[TOC]
-
-# markdown_template
-
-# AA 一级标题
+# Big Data 大数据
 
 ## BB 二级标题
 
