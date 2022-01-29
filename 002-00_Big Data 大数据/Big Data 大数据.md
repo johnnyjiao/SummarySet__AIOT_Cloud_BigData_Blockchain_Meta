@@ -1,45 +1,22 @@
 # Big Data 大数据
 
-## BB 二级标题
-
-### CC 三级标题
 
 
-
-# AA 一级标题
-
-## BB 二级标题
-
-### CC 三级标题
+# 数据存储
 
 
 
-# AA 一级标题
-
-- xxxxxxxx
-- xxxxxxxx
-
-## BB 二级标题
-
-- [ ] xxxxxxxx
-- [ ] xxxxxxxx
-
-### CC 三级标题
-
-1. xxxxxxxx
-2. xxxxxxxx
+# 数据平台
 
 
 
-```bash
-
-```
+# 数据分析
 
 
 
-![XXX](figures/XXX.drawio.png)
+# 数据挖掘
 
-![XXX](figures/XXX.jpg)
+
 
 
 
